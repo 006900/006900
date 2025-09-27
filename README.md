@@ -3,7 +3,7 @@
 
 <img src = "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Android-Studio-banner_1.original.png">
 
-<h4> About me </h4>
+<h4> About me </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <span> 
