@@ -1,7 +1,77 @@
-<h1 align="center">Hi , I'm Alan Cristaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
 
-<img src = "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Android-Studio-banner_1.original.png">
+# I'm Alan Cristaldo
+
+![sexo](https://blog.desdelinux.net/wp-content/uploads/2021/08/Jetpack-Compose.png "sexo")
+
+[![sexo agravado](https://blog.desdelinux.net/wp-content/uploads/2021/08/Jetpack-Compose.png "Shiprock, New Mexico by Beau Rogers")](https://www.megaeletronicos.com/producto/1461848/tablet-xiaomi-pad-7-128gb-8gb-ram-de-112-13mp-8mp-azul)
+
+~~The world is flat.~~ We now know that the world is round.
+
+I need to highlight these <mark>very important words</mark>.
+
+I need to highlight these <mark> **very important words** </mark>.
+
+H<sub>2</sub>O
+
+X<sup>2</sup>
+
+`http://www.example.com`
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```kotlin
+data class Object(
+val name:String,
+val age:Int
+)
+```
+
+At the command prompt, type `nano`.
+
+``Use `code` in your Markdown file.``
+
+My favorite search engine is [Duck Duck Go](https://www.megaeletronicos.com/producto/1461848/tablet-xiaomi-pad-7-128gb-8gb-ram-de-112-13mp-8mp-azul).
+My favorite search engine is [Duck Duck Go](https://www.megaeletronicos.com/producto/1461848/tablet-xiaomi-pad-7-128gb-8gb-ram-de-112-13mp-8mp-azul "The best search engine for privacy").
+
+<https://www.markdownguide.org>
+<fake@example.com>
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+[link](https://www.example.com/my%20great%20page)
+
+<a href="https://www.example.com/my great page">link</a>
+
+---
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
 
 # 💫 About Me:
 Me considero una persona curiosa, autodidacta y con muchas ganas de aprender de profesionales con experiencia. Busco integrarme a un equipo donde pueda seguir creciendo, aportar con mis habilidades y enfrentar desafíos reales en el desarrollo de aplicaciones móviles.
