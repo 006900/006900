@@ -72,3 +72,4 @@ Estoy en constante aprendizaje y entusiasmado por formar parte del mundo del des
 
 ¡Nos vemos en el código!
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=006900&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_progress=false" />
