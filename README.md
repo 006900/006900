@@ -1,26 +1,39 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+![](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Android-Studio-banner_1.original.png)
 
-### 📱 Desarrollador Android Junior | Kotlin & Java | Apasionado por crear apps nativas
-
----
-
-## 🧑‍💻 Sobre mí
-
-Soy un programador junior enfocado 100% en el desarrollo de aplicaciones Android **nativas**, utilizando **Kotlin** y **Java**. Me apasiona construir interfaces limpias, funcionales y centradas en la experiencia de usuario.
-
-Aunque estoy en las primeras etapas de mi carrera, me esfuerzo constantemente por mejorar mis habilidades y seguir buenas prácticas como el uso de **MVVM**, **Jetpack Components** y principios de **Clean Architecture**.
+<h1 align="center"><b> Hola Soy, Alan Cristaldo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+ 📱 Desarrollador de Aplicaciones nativas especializado en Android
+</p>
 
 ---
+
+## 👨‍💻 Sobre mí
+
+Hola, bienvenido a mi perfil 😀.
+Es un gusto tenerte por aquí. Permíteme presentarme brevemente:
+
+Soy desarrollador Android nativo con formacion autodidacts y un fuerte interés en el autoaprendizaje y la mejora continua. Me especializo en el desarrollo de aplicaciones móviles utilizando tecnologías y herramientas del ecosistema , tales como ⤵️
+
+![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+
+![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
+![](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Kotlin, Java  
+- **Lenguajes:** Kotlin  
 - **IDE:** Android Studio  
 - **Arquitectura:** MVVM, Clean Architecture (nivel básico-intermedio)  
-- **UI:** XML, Jetpack Compose (aprendiendo)  
+- **UI:** XML, Jetpack Compose
 - **Jetpack Libraries:** LiveData, ViewModel, Navigation, Room  
 - **Versionado:** Git, GitHub  
-- **Otras herramientas:** Firebase, Retrofit, Coroutines
+- **Otras herramientas:** Firebase, Retrofit, Coroutines , Librerias
 
 ---
 
@@ -38,17 +51,7 @@ Aquí encontrarás algunos de mis proyectos personales, donde aplico lo que voy 
 
 ## 🚀 Objetivo actual
 
-Mi objetivo es **seguir creciendo como desarrollador Android**, mejorar mis prácticas de desarrollo y colaborar en proyectos reales que aporten valor. Estoy abierto a participar en proyectos, contribuciones open source o pasantías.
-
----
-
-## 📬 Contacto
-
-Si te interesa colaborar o simplemente quieres hablar sobre desarrollo Android:
-
-- 📧 [Tu correo electrónico]
-- 💼 [LinkedIn u otra red profesional]
-- 🌐 [Portfolio o sitio personal si tienes uno]
+Mi objetivo es  **conseguir Empleo en la industria** , mejorar mis prácticas de desarrollo y colaborar en proyectos reales que aporten valor. Estoy abierto a participar en proyectos o pasantías.
 
 ---
 
