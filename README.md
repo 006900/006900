@@ -63,7 +63,7 @@ Mi meta es aportar valor, seguir creciendo como profesional y contribuir en proy
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 📧 Email: tu-email@example.com
+- 📧 Email: alanbenites999@gmail.com
 
 ---
 
