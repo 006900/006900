@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b3169f9c-4ebd-4b15-a505-046f3128852f" />
-</p>
 
 <h1 align="center">Hola, soy Alan Cristaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b3169f9c-4ebd-4b15-a505-046f3128852f" />
+</p>
+
+<p align="center">
   📱 Desarrollador de Aplicaciones Android Nativas
 </p>
+
 
 ---
 
