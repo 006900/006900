@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Android-Studio-banner_1.original.png" alt="Android Studio Banner" />
+  <img src="https://i.redd.it/ddyrz1dpy8971.png" alt="Android Studio Banner" />
 </p>
 
 <h1 align="center">Hola, soy Alan Cristaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
