@@ -49,6 +49,12 @@ Algunos ejemplos de proyectos personales donde aplico mis conocimientos en Andro
 
 > *(Puedes ver más en la sección de repositorios públicos de mi perfil.)*
 
+<p align="center">
+  <img src="https://developer.android.com/static/studio/images/new-project-templates.png?hl=es-419" alt="Imagen 1" width="200"/>
+  <img src="https://blog.desdelinux.net/wp-content/uploads/2018/07/studio.jpg" alt="Imagen 2" width="200"/>
+</p>
+
+
 ---
 
 ## 🚀 Objetivo Profesional
