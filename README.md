@@ -1,9 +1,7 @@
 
 <h1 align="center">Hola, soy Alan Cristaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:8418/1*zs_ArMJPix6FS-WHJWXvBQ.png" />
-</p>
+![Descripción de la imagen](https://miro.medium.com/v2/resize:fit:8418/1*zs_ArMJPix6FS-WHJWXvBQ.png)
 
 <p align="center">
   📱 Desarrollador de Aplicaciones Android Nativas
